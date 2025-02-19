@@ -1,0 +1,18 @@
+{
+  "CCCCCCCCCCCCC>>.HH": { "score": 1, "count": 6},
+  "CCCCCCCCCCCCC>>.HHH": { "score": 1, "count": 5},
+  "CCCCCCCCCCCCC>>.HHH=":{ "score": 1, "count": 4},
+  "CCCCCCCCCCCCC>>.HHH==": { "score": 1, "count": 3},
+  "CCCCCCCCCCCCC>>.HHH==.": { "score": 1, "count": 2},
+  "CCCCCCCCCCCCC>>.HHH==.Na": { "score": 2, "count": 3},
+  "CCCCCCCCCCCCC>>.HHH==.NaH": { "score": 1, "count": 1},
+  "C1=CN=C1.O=C1CCC(=O)N1Br>>Mg": { "score": 1, "count": 4},
+  "C1=CN=C1.O=C1CCC(=O)N1Br>>MgMg": { "score": 1, "count": 3},
+  "C1=CN=C1.O=C1CCC(=O)N1Br>>MgMg1": { "score": 1, "count": 1},
+  "BrBr.C1=CN=C1>>Mg": { "score": 1, "count": 7},
+  "BrBr.C1=CN=C1>>MgMg": { "score": 1, "count": 5},
+  "BrBr.C1=CN=C1>>MgMg1": { "score": 1, "count": 8},
+  "CCCCCCCCCCCCC>>Mg": { "score": 1, "count": 7},
+  "CCCCCCCCCCCCC>>MgMg": { "score": 1, "count": 5},
+  "CCCCCCCCCCCCC>>MgMg1": { "score": 1, "count": 8}
+}
